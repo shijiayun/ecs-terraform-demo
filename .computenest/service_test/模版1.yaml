@@ -1,0 +1,9 @@
+templateName: 模版1
+regionId: cn-hangzhou
+parameters:
+  password: "$[iact3-auto]"
+  instance_charge_type: "PostPaid"
+  vpc_cidr: "Please fill in"
+  vswitch_cidrs: "Please fill in"
+  instance_type: "$[iact3-auto]"
+caseId: stc-6c42b86eab8c47de91e0
